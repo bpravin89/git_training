@@ -1,1 +1,2 @@
 Hi! I'm Bob. I'm new here
+adding a new line to learn how to resolve merge conflicts
